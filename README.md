@@ -1,2 +1,2 @@
 # DeepLearning
-Assignments of DL
+Assignments of Deep Learning course and Kaggle Competitions
